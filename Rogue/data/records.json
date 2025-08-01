@@ -1,0 +1,28 @@
+{
+  "gameRecords" : [ {
+    "playerName" : "test",
+    "treasuresCost" : 92,
+    "reachedLevelCount" : 1,
+    "defeatedEnemiesCount" : 2,
+    "consumedFoodAmount" : 0,
+    "consumedElixirsNumber" : 0,
+    "readScrollsNumber" : 0,
+    "hitsNumber" : 10,
+    "missesNumber" : 0,
+    "traversedCellsNumber" : 34,
+    "gameComplete" : true
+  } ],
+  "topStatistics" : [ {
+    "playerName" : "test",
+    "treasuresCost" : 92,
+    "reachedLevelCount" : 1,
+    "defeatedEnemiesCount" : 2,
+    "consumedFoodAmount" : 0,
+    "consumedElixirsNumber" : 0,
+    "readScrollsNumber" : 0,
+    "hitsNumber" : 10,
+    "missesNumber" : 0,
+    "traversedCellsNumber" : 34,
+    "gameComplete" : true
+  } ]
+}
